@@ -52,7 +52,7 @@ Experience the fastest way to develop .NET and Node.js applications with Amplica
 
 <details open>
 <summary>
- Features
+ ## Features
 </summary> <br />
 
 <p align="center">
@@ -81,7 +81,7 @@ To get started with Amplication, the hosted version of the product can be used. 
 
 <details>
 <summary>
-  Tutorials
+  ## Tutorials
 </summary> <br />
 
 - [To-do application using Amplication and Angular](https://docs.amplication.com/tutorials/angular-todos)
@@ -94,7 +94,7 @@ Alternatively, instead of using the hosted version of the product, Amplication c
 
 <details open>
 <summary>
-Pre-requisites
+## Pre-requisites
 </summary> <br />
 To be able to start development on Amplication, make sure that you have the following prerequisites installed:
 
@@ -107,7 +107,7 @@ To be able to start development on Amplication, make sure that you have the foll
 
 <details open>
 <summary>
-Running Amplication
+## Running Amplication
 </summary> <br />
 
 > **Note**
